@@ -1,0 +1,70 @@
+{
+  "data":[
+    {
+      "Age":23,
+      "Loan":40000,
+      "GiveLoan":"no"
+
+    },
+    {
+      "Age":35,
+      "Loan":60000,
+      "GiveLoan":"no"
+
+    },
+    {
+      "Age":45,
+      "Loan":80000,
+      "GiveLoan":"no"
+
+    },
+    {
+      "Age":20,
+      "Loan":20000,
+      "GiveLoan":"no"
+
+    },
+    {
+      "Age":35,
+      "Loan":120000,
+      "GiveLoan":"no"
+
+    },
+    {
+      "Age":52,
+      "Loan":18000,
+      "GiveLoan":"no"
+
+    },
+    {
+      "Age":23,
+      "Loan":93000,
+      "GiveLoan":"yes"
+
+    },
+    {
+      "Age":40,
+      "Loan":62000,
+      "GiveLoan":"yes"
+
+    },
+    {
+      "Age":60,
+      "Loan":100000,
+      "GiveLoan":"yes"
+
+    },
+    {
+      "Age":48,
+      "Loan":220000,
+      "GiveLoan":"yes"
+
+    },
+    {
+      "Age":33,
+      "Loan":150000,
+      "GiveLoan":"yes"
+
+    }
+  ]
+}
